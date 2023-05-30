@@ -104,7 +104,7 @@ export default function LotteryEntrance() {
             position: "topR",
             message: "Tracsaction Completed ~~~",
             title: "Transaction Status",
-            icon: <div>vaix lon</div>
+            icon: <div>hehe</div>
         })
     }
 
